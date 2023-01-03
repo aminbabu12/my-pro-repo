@@ -22,3 +22,7 @@ p{
 #margin{
     margin-left: 600px;
 }
+h2{
+    background-color: darkred;
+    color: white;
+}
